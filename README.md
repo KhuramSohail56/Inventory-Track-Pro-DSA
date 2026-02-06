@@ -1,29 +1,33 @@
-#Inventory Track Pro 🚀
-Inventory Track Pro is a high-performance inventory management system developed in C++. This project was designed to demonstrate the efficient implementation of core Data Structures and Algorithms (DSA) to solve real-world resource tracking problems.
+# 📦 Inventory Track Pro
 
-🛠️ Data Structures Implemented
-This project goes beyond simple CRUD operations by utilizing advanced data structures for efficiency:
+**Inventory Track Pro** is a high-performance inventory management system developed in **C++**. This project demonstrates the practical application of core **Data Structures and Algorithms (DSA)** to solve real-world resource tracking and data management challenges.
 
-Hash Table (Chaining): Optimized for O(1) average time complexity during product lookups by ID.
+---
 
-Binary Search Tree (BST): Used for efficient Range Searching of products based on price points.
+## 🛠️ Data Structures & Logic
+This system is built for efficiency, utilizing advanced structures to ensure fast data processing:
 
-Stacks (Undo/Redo): A dual-stack architecture to manage system states and allow users to revert or repeat actions.
+* **Hash Table (Chaining):** Implemented for **O(1)** average time complexity during product lookups by ID.
+* **Binary Search Tree (BST):** Used for efficient **Range Searching** of products based on price points.
+* **Stacks (Undo/Redo):** A dual-stack architecture to manage system states, allowing users to revert or repeat actions.
+* **Sorting Algorithms:** Comparison between **Merge Sort** and **Quick Sort** for organizing inventory by price, rating, or sales performance.
 
-Sorting Algorithms: Comparison between Merge Sort and Quick Sort for organizing inventory by price, rating, or sales.
+---
 
-✨ Key Features
-Persistent Storage: Save and load inventory data via .txt files.
+## ✨ Key Features
+* **Persistent Storage:** Full support for saving and loading inventory data via `.txt` files.
+* **Input Validation:** Robust error handling to prevent invalid data types or out-of-range entries.
+* **Data Analytics:** Capability to sort and filter products based on sales trends and user ratings.
 
-Input Validation: Robust error handling for data types and price/rating ranges.
+---
 
-Analytics: Sort products by performance metrics like sales and ratings.
+## 👨‍💻 About the Developer
+I am **Khuram Sohail**, a Software Engineering student (Session '24) at **UET Taxila**. I am passionate about building scalable software and exploring **Machine Learning** and **Cybersecurity**.
 
-👨‍💻 About the Developer
-I am Khuram Sohail, a Software Engineering student (Session '24) at UET Taxila. I am passionate about building scalable software and exploring the intersections of Computer Vision and Cybersecurity.
+* **Education:** Currently pursuing Software Engineering at UET Taxila (completed 3rd semester).
+* **Community:** General Member of **GDSC**, member of **YPDC**, and former Documentation Team member for **SoftDesk**.
+* **Certifications:** Machine Learning Specialization from Stanford/DeepLearning.AI and Google-authorized certifications in Git and Troubleshooting.
+* **Network:** Connect with me on LinkedIn (3K+ followers and growing!).
 
-LinkedIn: [https://www.linkedin.com/in/khurram-sohail-34046832a/] (Join my 3K+ professional network!)
-
-Societies: Member of GDSC, YPDC, and Documentation Team at SoftDesk.
-
-Certifications: Machine Learning Specialization (Stanford/DeepLearning.AI) and Google-authorized Troubleshooting techniques.
+---
+*Developed as a core DSA project during Semester 3 at UET Taxila.*
