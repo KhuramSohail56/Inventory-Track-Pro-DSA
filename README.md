@@ -27,7 +27,7 @@ I am **Khuram Sohail**, a Software Engineering student (Session '24) at **UET Ta
 * **Education:** Currently pursuing Software Engineering at UET Taxila (completed 3rd semester).
 * **Community:** General Member of **GDSC**, member of **YPDC**, and former Documentation Team member for **SoftDesk**.
 * **Certifications:** Machine Learning Specialization from Stanford/DeepLearning.AI and Google-authorized certifications in Git and Troubleshooting.
-* **Network:** Connect with me on LinkedIn (3K+ followers and growing!).
+* **Network:** Connect with me on LinkedIn[https://www.linkedin.com/in/khurram-sohail-34046832a/] (3K+ followers and growing!).
 
 ---
 *Developed as a core DSA project during Semester 3 at UET Taxila.*
