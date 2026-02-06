@@ -1,4 +1,4 @@
-Inventory Track Pro 🚀
+#Inventory Track Pro 🚀
 Inventory Track Pro is a high-performance inventory management system developed in C++. This project was designed to demonstrate the efficient implementation of core Data Structures and Algorithms (DSA) to solve real-world resource tracking problems.
 
 🛠️ Data Structures Implemented
